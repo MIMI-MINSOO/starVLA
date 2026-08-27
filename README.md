@@ -5,6 +5,14 @@
 
 <p align="center">An open-source research platform for integrating and exploring cutting-edge technologies for generalist robots.</p>
 
+> 📌 **SO-101 CupStack VLA pipeline**: the `so101-marker100` branch's qwenpiv3 configs are part of a
+> larger pipeline spanning multiple repos. Full docs & reproduction guide:
+> **[so101-vla-pipeline](https://github.com/MIMI-MINSOO/so101-vla-pipeline)**
+> Related: [IsaacLab](https://github.com/MIMI-MINSOO/IsaacLab) ·
+> [leisaac](https://github.com/MIMI-MINSOO/leisaac-cupstack) ·
+> [openpi](https://github.com/MIMI-MINSOO/openpi) ·
+> [Isaac-GR00T](https://github.com/MIMI-MINSOO/Isaac-GR00T)
+
 <p align="center">
 <a href="https://starvla.github.io/"><img src="https://img.shields.io/badge/Project%20Page-starvla.github.io-blue?style=for-the-badge&logo=github" alt="Project Page"></a>
 <a href="https://huggingface.co/StarVLA"><img src="https://img.shields.io/badge/HuggingFace-Model%20%26%20Data-orange?style=for-the-badge&logo=huggingface" alt="Model & Data on Hugging Face"></a>
